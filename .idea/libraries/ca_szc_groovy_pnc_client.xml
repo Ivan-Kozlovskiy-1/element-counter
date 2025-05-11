@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="ca.szc.groovy.pnc.client" type="repository">
+    <properties maven-id="ca.szc.groovy.pnc:pnc-groovy-client:1.2.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ca/szc/groovy/pnc/pnc-groovy-client/1.2.2/pnc-groovy-client-1.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy/2.5.2/groovy-2.5.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-json/2.5.2/groovy-json-2.5.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-xml/2.5.2/groovy-xml-2.5.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/http-builder-ng/http-builder-ng-apache/1.0.3/http-builder-ng-apache-1.0.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/http-builder-ng/http-builder-ng-core/1.0.3/http-builder-ng-core-1.0.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/xml-resolver/xml-resolver/1.2/xml-resolver-1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.9/commons-codec-1.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpmime/4.5.2/httpmime-4.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
